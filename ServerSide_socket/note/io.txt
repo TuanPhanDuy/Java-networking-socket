@@ -1,0 +1,22 @@
+byte stream : InputStream / OutputStream
+		--> BufferedInputStream / BufferedOutputStream
+	
+character stream: Reader / Writer
+		--> Scanner / PrintWriter
+
+data stream
+	DataInputStream / DataOutputStream
+	primitive type
+		4 nguyen: byte, short, int  , long
+		2 thuc: float, double
+		1 luan ly: boolean
+		1 ky tu: char
+	String
+	
+object stream
+	ObjectInputStream / ObjectOutputStream
+	must be: Serializable
+	
+
+
+

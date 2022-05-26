@@ -1,0 +1,3300 @@
+[
+	{
+		"mssv": "18415771",
+		"hodem": "Phạm Thị Thanh",
+		"ten": "Ngân",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 2
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903351248",
+			"0913738567"
+		],
+		"diemTB": 3.39
+	},
+	{
+		"mssv": "18160161",
+		"hodem": "Nguyễn Ngọc",
+		"ten": "Trường",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 10,
+			"day": 3
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903805703",
+			"0913273165"
+		],
+		"diemTB": 4.91
+	},
+	{
+		"mssv": "18419571",
+		"hodem": "Nguyễn Huy",
+		"ten": "Hảo",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 2
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903132431",
+			"0913332185"
+		],
+		"diemTB": 4.82
+	},
+	{
+		"mssv": "18233981",
+		"hodem": "Lê An Thịnh",
+		"ten": "Phát",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 28
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903169366",
+			"0913705589"
+		],
+		"diemTB": 7.57
+	},
+	{
+		"mssv": "17175441",
+		"hodem": "Lê Đình",
+		"ten": "Huy",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 11,
+			"day": 23
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903154880",
+			"0913745836"
+		],
+		"diemTB": 6.58
+	},
+	{
+		"mssv": "17861241",
+		"hodem": "Trần Xuân",
+		"ten": "Quang",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 7,
+			"day": 22
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903551634",
+			"0913355184"
+		],
+		"diemTB": 7.17
+	},
+	{
+		"mssv": "17343071",
+		"hodem": "Nguyễn Đình Hoàng",
+		"ten": "Phương",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 9,
+			"day": 26
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903727968",
+			"0913224127"
+		],
+		"diemTB": 6.22
+	},
+	{
+		"mssv": "18587541",
+		"hodem": "Phạm Quí",
+		"ten": "Phong",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 21
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903280516",
+			"0913480765"
+		],
+		"diemTB": 0.8
+	},
+	{
+		"mssv": "18316461",
+		"hodem": "Nguyễn Hồng",
+		"ten": "Sơn",
+		"ngaysinh": {
+			"year": 1997,
+			"month": 2,
+			"day": 28
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903145525",
+			"0913468089"
+		],
+		"diemTB": 9.23
+	},
+	{
+		"mssv": "18967291",
+		"hodem": "Nguyễn Tuấn",
+		"ten": "Anh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 4
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903791421",
+			"0913189986"
+		],
+		"diemTB": 6.56
+	},
+	{
+		"mssv": "18943501",
+		"hodem": "Nguyễn Văn",
+		"ten": "Hùng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 27
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903724181",
+			"0913554897"
+		],
+		"diemTB": 7.9
+	},
+	{
+		"mssv": "18314841",
+		"hodem": "Huỳnh Anh",
+		"ten": "Tiên",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 4,
+			"day": 4
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903129349",
+			"0913500572"
+		],
+		"diemTB": 7.39
+	},
+	{
+		"mssv": "18643461",
+		"hodem": "Hà Danh",
+		"ten": "Phúc",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 7,
+			"day": 4
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903722831",
+			"0913686423"
+		],
+		"diemTB": 6.27
+	},
+	{
+		"mssv": "17947121",
+		"hodem": "Võ Tấn",
+		"ten": "Nguyên",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 6,
+			"day": 1
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13BTT",
+		"dsDienthoai": [
+			"0903809899",
+			"0913660532"
+		],
+		"diemTB": 4.55
+	},
+	{
+		"mssv": "18673411",
+		"hodem": "Ngô Quang",
+		"ten": "Long",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 6
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903443803",
+			"0913240079"
+		],
+		"diemTB": 9.15
+	},
+	{
+		"mssv": "17293841",
+		"hodem": "Trần Trọng",
+		"ten": "Thành",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 1,
+			"day": 19
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT13A",
+		"dsDienthoai": [
+			"0903409121",
+			"0913121959"
+		],
+		"diemTB": 6.6
+	},
+	{
+		"mssv": "18479761",
+		"hodem": "Dương Thị",
+		"ten": "Diễm",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 6
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903641479",
+			"0913671701"
+		],
+		"diemTB": 3.16
+	},
+	{
+		"mssv": "18366961",
+		"hodem": "Nguyễn Hoàng",
+		"ten": "Việt",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 4
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903687563",
+			"0913838635"
+		],
+		"diemTB": 2.96
+	},
+	{
+		"mssv": "18698611",
+		"hodem": "Trần Phạm Hải",
+		"ten": "Âu",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 6
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903749894",
+			"0913921309"
+		],
+		"diemTB": 8.64
+	},
+	{
+		"mssv": "18585931",
+		"hodem": "Nguyễn Trọng",
+		"ten": "Nhân",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 25
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903292043",
+			"0913588226"
+		],
+		"diemTB": 4.9
+	},
+	{
+		"mssv": "18655681",
+		"hodem": "Nguyễn Hữu",
+		"ten": "Thắng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 4,
+			"day": 18
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903851555",
+			"0913520111"
+		],
+		"diemTB": 3.28
+	},
+	{
+		"mssv": "18634641",
+		"hodem": "Lê Danh",
+		"ten": "Huy",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 26
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903141140",
+			"0913808450"
+		],
+		"diemTB": 1.49
+	},
+	{
+		"mssv": "18929111",
+		"hodem": "Nguyễn Xuân",
+		"ten": "Thìn",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 3,
+			"day": 5
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903572214",
+			"0913488707"
+		],
+		"diemTB": 9.72
+	},
+	{
+		"mssv": "18280951",
+		"hodem": "Tằng Tiến",
+		"ten": "Đạt",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 11
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903981368",
+			"0913163633"
+		],
+		"diemTB": 1.75
+	},
+	{
+		"mssv": "18575461",
+		"hodem": "Thái Huy",
+		"ten": "Hoàng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 5
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903791628",
+			"0913576053"
+		],
+		"diemTB": 8.65
+	},
+	{
+		"mssv": "18790511",
+		"hodem": "Nguyễn Hoàng",
+		"ten": "Nhật",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903895216",
+			"0913434473"
+		],
+		"diemTB": 1.35
+	},
+	{
+		"mssv": "18532811",
+		"hodem": "Nguyễn Anh",
+		"ten": "Tuấn",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 9
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903863455",
+			"0913585301"
+		],
+		"diemTB": 3.77
+	},
+	{
+		"mssv": "16509171",
+		"hodem": "Tạ Minh",
+		"ten": "Đức",
+		"ngaysinh": {
+			"year": 1998,
+			"month": 8,
+			"day": 14
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM12BTT",
+		"dsDienthoai": [
+			"0903104181",
+			"0913407734"
+		],
+		"diemTB": 1.4
+	},
+	{
+		"mssv": "18316311",
+		"hodem": "Nguyễn Thanh",
+		"ten": "Tú",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 4,
+			"day": 24
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903709062",
+			"0913386323"
+		],
+		"diemTB": 1.65
+	},
+	{
+		"mssv": "17800191",
+		"hodem": "Lê Chí",
+		"ten": "Bảo",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 9,
+			"day": 9
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903768825",
+			"0913702772"
+		],
+		"diemTB": 5.27
+	},
+	{
+		"mssv": "17628311",
+		"hodem": "Phạm Quốc",
+		"ten": "Toàn",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 4,
+			"day": 3
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13B",
+		"dsDienthoai": [
+			"0903783822",
+			"0913127479"
+		],
+		"diemTB": 6.7
+	},
+	{
+		"mssv": "18642391",
+		"hodem": "Tống Sỹ",
+		"ten": "Nguyên",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 3,
+			"day": 22
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903355164",
+			"0913311101"
+		],
+		"diemTB": 9.18
+	},
+	{
+		"mssv": "18749031",
+		"hodem": "Nguyễn Phan Huỳnh",
+		"ten": "Đức",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 10
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903549087",
+			"0913457583"
+		],
+		"diemTB": 7.11
+	},
+	{
+		"mssv": "17347571",
+		"hodem": "Nguyễn Anh",
+		"ten": "Khoa",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 10,
+			"day": 14
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13CTT",
+		"dsDienthoai": [
+			"0903330861",
+			"0913554059"
+		],
+		"diemTB": 0.79
+	},
+	{
+		"mssv": "18917131",
+		"hodem": "Đinh Thị Hà",
+		"ten": "Phương",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 2
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903488263",
+			"0913685719"
+		],
+		"diemTB": 3.51
+	},
+	{
+		"mssv": "17180691",
+		"hodem": "Nguyễn Thị Kiều",
+		"ten": "Oanh",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 6,
+			"day": 26
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903530873",
+			"0913384869"
+		],
+		"diemTB": 8.27
+	},
+	{
+		"mssv": "17305201",
+		"hodem": "Võ Văn",
+		"ten": "Nghĩa",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 3,
+			"day": 11
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13B",
+		"dsDienthoai": [
+			"0903596863",
+			"0913609920"
+		],
+		"diemTB": 1.38
+	},
+	{
+		"mssv": "18729101",
+		"hodem": "Thái Anh",
+		"ten": "Hào",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 4,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903607579",
+			"0913103708"
+		],
+		"diemTB": 2.27
+	},
+	{
+		"mssv": "18554291",
+		"hodem": "Trần Đông",
+		"ten": "Hoàng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903439276",
+			"0913136290"
+		],
+		"diemTB": 9.19
+	},
+	{
+		"mssv": "18613111",
+		"hodem": "Trần Ngọc",
+		"ten": "Hiển",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 25
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903178793",
+			"0913801728"
+		],
+		"diemTB": 5.36
+	},
+	{
+		"mssv": "18150011",
+		"hodem": "Trần Phạm Gia",
+		"ten": "Long",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 10,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903125987",
+			"0913399744"
+		],
+		"diemTB": 1.21
+	},
+	{
+		"mssv": "18223031",
+		"hodem": "Lê Thị",
+		"ten": "Nguyên",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 17
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903130893",
+			"0913190289"
+		],
+		"diemTB": 4.97
+	},
+	{
+		"mssv": "18279831",
+		"hodem": "Nguyễn Công Thành",
+		"ten": "Đạt",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 9,
+			"day": 13
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903191759",
+			"0913634820"
+		],
+		"diemTB": 1.62
+	},
+	{
+		"mssv": "18492261",
+		"hodem": "Trần Trung",
+		"ten": "Vinh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903881824",
+			"0913779549"
+		],
+		"diemTB": 5.63
+	},
+	{
+		"mssv": "18900441",
+		"hodem": "Phạm Tuấn",
+		"ten": "Đạt",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 19
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903656013",
+			"0913181060"
+		],
+		"diemTB": 6.24
+	},
+	{
+		"mssv": "18385001",
+		"hodem": "Huỳnh Thanh",
+		"ten": "Bình",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 9,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903136974",
+			"0913664502"
+		],
+		"diemTB": 7.33
+	},
+	{
+		"mssv": "18427421",
+		"hodem": "Nguyễn Duy",
+		"ten": "Thiện",
+		"ngaysinh": {
+			"year": 1996,
+			"month": 9,
+			"day": 14
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903819969",
+			"0913250835"
+		],
+		"diemTB": 9.63
+	},
+	{
+		"mssv": "18496071",
+		"hodem": "Hồ Minh",
+		"ten": "Phúc",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903973917",
+			"0913973814"
+		],
+		"diemTB": 8.63
+	},
+	{
+		"mssv": "18259571",
+		"hodem": "Trương Đình",
+		"ten": "Phước",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 8
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903259600",
+			"0913393487"
+		],
+		"diemTB": 6.01
+	},
+	{
+		"mssv": "18322441",
+		"hodem": "Lê Ngọc",
+		"ten": "Tồn",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 13
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903665700",
+			"0913980692"
+		],
+		"diemTB": 3.86
+	},
+	{
+		"mssv": "18862211",
+		"hodem": "Nguyễn Đinh Hoàng",
+		"ten": "Mỹ",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 23
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903551057",
+			"0913796000"
+		],
+		"diemTB": 6.77
+	},
+	{
+		"mssv": "18839741",
+		"hodem": "Điểu",
+		"ten": "Long",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 26
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903573990",
+			"0913243648"
+		],
+		"diemTB": 1.88
+	},
+	{
+		"mssv": "18446171",
+		"hodem": "Bùi Thành",
+		"ten": "Nam",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 6
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903233067",
+			"0913653245"
+		],
+		"diemTB": 0.17
+	},
+	{
+		"mssv": "17927991",
+		"hodem": "Lục Gia",
+		"ten": "Anh",
+		"ngaysinh": {
+			"year": 1998,
+			"month": 12,
+			"day": 10
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903657001",
+			"0913373322"
+		],
+		"diemTB": 9.14
+	},
+	{
+		"mssv": "17300201",
+		"hodem": "Võ Minh",
+		"ten": "Vương",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 8,
+			"day": 19
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903466088",
+			"0913841346"
+		],
+		"diemTB": 3.23
+	},
+	{
+		"mssv": "18130831",
+		"hodem": "Nguyễn Anh",
+		"ten": "Huy",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 7
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903510491",
+			"0913921180"
+		],
+		"diemTB": 7.94
+	},
+	{
+		"mssv": "16161851",
+		"hodem": "Nguyễn Tấn",
+		"ten": "Lộc",
+		"ngaysinh": {
+			"year": 1998,
+			"month": 3,
+			"day": 10
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM12BTT",
+		"dsDienthoai": [
+			"0903796326",
+			"0913861364"
+		],
+		"diemTB": 6.54
+	},
+	{
+		"mssv": "18153771",
+		"hodem": "Trần Cao",
+		"ten": "Tường",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 5
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903943851",
+			"0913934653"
+		],
+		"diemTB": 0.8
+	},
+	{
+		"mssv": "18745721",
+		"hodem": "Phạm Ngọc Như",
+		"ten": "ý",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 3,
+			"day": 1
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903289594",
+			"0913728596"
+		],
+		"diemTB": 5.98
+	},
+	{
+		"mssv": "19838051",
+		"hodem": "Nguyễn Thành",
+		"ten": "Luân",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT15B",
+		"dsDienthoai": [
+			"0903498688",
+			"0913529818"
+		],
+		"diemTB": 2.52
+	},
+	{
+		"mssv": "18417591",
+		"hodem": "Nguyễn Văn",
+		"ten": "Tính",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 19
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903659537",
+			"0913701180"
+		],
+		"diemTB": 5.55
+	},
+	{
+		"mssv": "17739631",
+		"hodem": "Nguyễn Mai",
+		"ten": "Anh",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 11,
+			"day": 17
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM13CTT",
+		"dsDienthoai": [
+			"0903152017",
+			"0913370322"
+		],
+		"diemTB": 2.24
+	},
+	{
+		"mssv": "18585291",
+		"hodem": "Võ Đại",
+		"ten": "Quyền",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 10,
+			"day": 7
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903215666",
+			"0913963377"
+		],
+		"diemTB": 7.67
+	},
+	{
+		"mssv": "18127651",
+		"hodem": "Nguyễn Huỳnh Công",
+		"ten": "Lý",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 11
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903337180",
+			"0913126857"
+		],
+		"diemTB": 9.85
+	},
+	{
+		"mssv": "18259891",
+		"hodem": "Đoàn Văn",
+		"ten": "Vĩnh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 3,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903489067",
+			"0913411528"
+		],
+		"diemTB": 2.6
+	},
+	{
+		"mssv": "17327971",
+		"hodem": "Võ Đức",
+		"ten": "Hoàng",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 1,
+			"day": 15
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903976655",
+			"0913957710"
+		],
+		"diemTB": 0.57
+	},
+	{
+		"mssv": "18949811",
+		"hodem": "Đỗ Thị Thu",
+		"ten": "Diệp",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 9,
+			"day": 1
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903219089",
+			"0913434638"
+		],
+		"diemTB": 7.26
+	},
+	{
+		"mssv": "18731671",
+		"hodem": "Nguyễn Trần Nhật",
+		"ten": "Hưng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 4
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903236870",
+			"0913727387"
+		],
+		"diemTB": 5.02
+	},
+	{
+		"mssv": "18976511",
+		"hodem": "Nguyễn Thị Thanh",
+		"ten": "Thúy",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 17
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903114006",
+			"0913422265"
+		],
+		"diemTB": 1.16
+	},
+	{
+		"mssv": "17596761",
+		"hodem": "Nguyễn Phước Nguyên",
+		"ten": "Ân",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 9,
+			"day": 26
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903178150",
+			"0913469421"
+		],
+		"diemTB": 8.31
+	},
+	{
+		"mssv": "18751721",
+		"hodem": "Hà Huy",
+		"ten": "Hoàng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 3
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903448842",
+			"0913177079"
+		],
+		"diemTB": 4.53
+	},
+	{
+		"mssv": "17559231",
+		"hodem": "Nguyễn Mạnh",
+		"ten": "Trường",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 8,
+			"day": 26
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903235873",
+			"0913333067"
+		],
+		"diemTB": 9.85
+	},
+	{
+		"mssv": "17632421",
+		"hodem": "ứng Ngọc",
+		"ten": "Sơn",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 4,
+			"day": 1
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13BTT",
+		"dsDienthoai": [
+			"0903276851",
+			"0913260402"
+		],
+		"diemTB": 6.9
+	},
+	{
+		"mssv": "17968251",
+		"hodem": "Nguyễn Văn",
+		"ten": "Tâm",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 2,
+			"day": 6
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13BTT",
+		"dsDienthoai": [
+			"0903433278",
+			"0913822202"
+		],
+		"diemTB": 1.73
+	},
+	{
+		"mssv": "18980451",
+		"hodem": "Thiều Quang",
+		"ten": "Nghĩa",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 4,
+			"day": 25
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903248212",
+			"0913695804"
+		],
+		"diemTB": 7.34
+	},
+	{
+		"mssv": "18734021",
+		"hodem": "Võ Quốc",
+		"ten": "Khánh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 10
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903276121",
+			"0913592984"
+		],
+		"diemTB": 6.92
+	},
+	{
+		"mssv": "18799991",
+		"hodem": "Lưu Hoàng",
+		"ten": "Long",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 5
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903828978",
+			"0913752821"
+		],
+		"diemTB": 5.49
+	},
+	{
+		"mssv": "18448371",
+		"hodem": "Nguyễn Tuấn",
+		"ten": "Anh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 15
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903970344",
+			"0913451683"
+		],
+		"diemTB": 8.92
+	},
+	{
+		"mssv": "18832891",
+		"hodem": "Võ Thanh",
+		"ten": "Thế",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 22
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903769979",
+			"0913549239"
+		],
+		"diemTB": 3.67
+	},
+	{
+		"mssv": "18112601",
+		"hodem": "Hồ Dương",
+		"ten": "Vũ",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 5
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903801752",
+			"0913139392"
+		],
+		"diemTB": 8.62
+	},
+	{
+		"mssv": "18691741",
+		"hodem": "Trần Chí",
+		"ten": "Hùng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 22
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903243287",
+			"0913706500"
+		],
+		"diemTB": 9.98
+	},
+	{
+		"mssv": "18914731",
+		"hodem": "Nguyễn Thế",
+		"ten": "Bảo",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 14
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903264848",
+			"0913536616"
+		],
+		"diemTB": 5.49
+	},
+	{
+		"mssv": "18136351",
+		"hodem": "Nguyễn Thanh",
+		"ten": "Hoài",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 1
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903707749",
+			"0913766731"
+		],
+		"diemTB": 0.78
+	},
+	{
+		"mssv": "18612191",
+		"hodem": "Lê Khắc",
+		"ten": "Trung",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 9
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903261344",
+			"0913118608"
+		],
+		"diemTB": 5.62
+	},
+	{
+		"mssv": "18827601",
+		"hodem": "Nguyễn Như",
+		"ten": "Hà",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 11
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903818365",
+			"0913473325"
+		],
+		"diemTB": 2.87
+	},
+	{
+		"mssv": "18124801",
+		"hodem": "Bùi Thị Mỹ",
+		"ten": "Duyên",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 1
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903868716",
+			"0913833404"
+		],
+		"diemTB": 6.28
+	},
+	{
+		"mssv": "18548361",
+		"hodem": "Nguyễn Thị Hoàng",
+		"ten": "Nhi",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 10,
+			"day": 13
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903565463",
+			"0913941588"
+		],
+		"diemTB": 0.58
+	},
+	{
+		"mssv": "18709891",
+		"hodem": "Trương Công",
+		"ten": "Cường",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 10,
+			"day": 13
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903386689",
+			"0913638543"
+		],
+		"diemTB": 0.4
+	},
+	{
+		"mssv": "17422461",
+		"hodem": "Đặng Lê Nguyên",
+		"ten": "Lương",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 3,
+			"day": 23
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT13A",
+		"dsDienthoai": [
+			"0903914356",
+			"0913331008"
+		],
+		"diemTB": 9.95
+	},
+	{
+		"mssv": "18680831",
+		"hodem": "Tô Văn",
+		"ten": "Hậu",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 9,
+			"day": 2
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903519192",
+			"0913119609"
+		],
+		"diemTB": 3.95
+	},
+	{
+		"mssv": "17250961",
+		"hodem": "Nguyễn Hưng",
+		"ten": "Phát",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 7,
+			"day": 23
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903874499",
+			"0913820846"
+		],
+		"diemTB": 1.24
+	},
+	{
+		"mssv": "18180811",
+		"hodem": "Trương Tuấn",
+		"ten": "Phúc",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 17
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903370527",
+			"0913706649"
+		],
+		"diemTB": 8.87
+	},
+	{
+		"mssv": "17251811",
+		"hodem": "Phan Duy",
+		"ten": "Tuấn",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 6,
+			"day": 15
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13CTT",
+		"dsDienthoai": [
+			"0903304434",
+			"0913289713"
+		],
+		"diemTB": 3.47
+	},
+	{
+		"mssv": "18562771",
+		"hodem": "Vũ Văn",
+		"ten": "Khải",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903722505",
+			"0913433034"
+		],
+		"diemTB": 9.25
+	},
+	{
+		"mssv": "18641021",
+		"hodem": "Phạm Lê",
+		"ten": "Thành",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 18
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903538689",
+			"0913170939"
+		],
+		"diemTB": 4.05
+	},
+	{
+		"mssv": "18580741",
+		"hodem": "Võ Anh",
+		"ten": "Hào",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 6
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903446551",
+			"0913495864"
+		],
+		"diemTB": 2.64
+	},
+	{
+		"mssv": "18430751",
+		"hodem": "Lưu Tuấn",
+		"ten": "Kha",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 4
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903982407",
+			"0913508120"
+		],
+		"diemTB": 8.83
+	},
+	{
+		"mssv": "18275421",
+		"hodem": "Nguyễn Đức",
+		"ten": "Duy",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 22
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903718362",
+			"0913370224"
+		],
+		"diemTB": 1.59
+	},
+	{
+		"mssv": "18682421",
+		"hodem": "Nguyễn Văn",
+		"ten": "Hùng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 7
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903626632",
+			"0913757135"
+		],
+		"diemTB": 1.55
+	},
+	{
+		"mssv": "18792631",
+		"hodem": "Nguyễn Xuân",
+		"ten": "Hải",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 13
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903123860",
+			"0913542231"
+		],
+		"diemTB": 4.65
+	},
+	{
+		"mssv": "18440691",
+		"hodem": "Nguyễn Thiên Cát",
+		"ten": "Tường",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 4,
+			"day": 23
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903166410",
+			"0913409496"
+		],
+		"diemTB": 8.79
+	},
+	{
+		"mssv": "18364931",
+		"hodem": "Hoàng Thiên",
+		"ten": "Thảo",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 2
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903982047",
+			"0913408963"
+		],
+		"diemTB": 2.22
+	},
+	{
+		"mssv": "18169131",
+		"hodem": "Phan Võ Nhật",
+		"ten": "Hoàng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 3,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903795102",
+			"0913386037"
+		],
+		"diemTB": 3.77
+	},
+	{
+		"mssv": "18612431",
+		"hodem": "Văn Minh",
+		"ten": "Hoàng",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 6,
+			"day": 19
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903159674",
+			"0913372130"
+		],
+		"diemTB": 0.91
+	},
+	{
+		"mssv": "18906171",
+		"hodem": "Dương Anh",
+		"ten": "Tú",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 9,
+			"day": 16
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903275107",
+			"0913525708"
+		],
+		"diemTB": 6.1
+	},
+	{
+		"mssv": "18854641",
+		"hodem": "Lê Nhật",
+		"ten": "Huy",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 14
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903234907",
+			"0913471171"
+		],
+		"diemTB": 3.64
+	},
+	{
+		"mssv": "18564821",
+		"hodem": "Nguyễn Tấn",
+		"ten": "Lợi",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 4,
+			"day": 28
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903391269",
+			"0913360222"
+		],
+		"diemTB": 5.07
+	},
+	{
+		"mssv": "18705871",
+		"hodem": "Hà Hiếu",
+		"ten": "Uyên",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 19
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903478789",
+			"0913439611"
+		],
+		"diemTB": 4.75
+	},
+	{
+		"mssv": "17518281",
+		"hodem": "Phạm Thành",
+		"ten": "Khoa",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 5,
+			"day": 3
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903802022",
+			"0913542452"
+		],
+		"diemTB": 7.69
+	},
+	{
+		"mssv": "18982171",
+		"hodem": "Nguyễn Đức",
+		"ten": "Mạnh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 26
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903860605",
+			"0913620880"
+		],
+		"diemTB": 0.27
+	},
+	{
+		"mssv": "17502921",
+		"hodem": "Lương Thanh",
+		"ten": "Nhất",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 6,
+			"day": 25
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903810565",
+			"0913149837"
+		],
+		"diemTB": 9.08
+	},
+	{
+		"mssv": "18265051",
+		"hodem": "Phạm Xuân",
+		"ten": "Lộc",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 1
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903442158",
+			"0913265630"
+		],
+		"diemTB": 1.58
+	},
+	{
+		"mssv": "18359231",
+		"hodem": "Nguyễn Hiếu",
+		"ten": "Học",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 9
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903493328",
+			"0913944228"
+		],
+		"diemTB": 2.21
+	},
+	{
+		"mssv": "18801441",
+		"hodem": "Trần Minh",
+		"ten": "Nghĩa",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 9
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903593295",
+			"0913812520"
+		],
+		"diemTB": 9.53
+	},
+	{
+		"mssv": "17371921",
+		"hodem": "Lê Thiên",
+		"ten": "Tân",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 8,
+			"day": 28
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13ATT",
+		"dsDienthoai": [
+			"0903810466",
+			"0913176238"
+		],
+		"diemTB": 2.16
+	},
+	{
+		"mssv": "18486561",
+		"hodem": "Hoàng Hữu",
+		"ten": "Hiển",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 9
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903116644",
+			"0913391153"
+		],
+		"diemTB": 5.24
+	},
+	{
+		"mssv": "18511291",
+		"hodem": "Trần Vũ Hoàng",
+		"ten": "Sơn",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 17
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903817983",
+			"0913135899"
+		],
+		"diemTB": 7.42
+	},
+	{
+		"mssv": "18664301",
+		"hodem": "Đặng Trường",
+		"ten": "An",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 11
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903335959",
+			"0913729801"
+		],
+		"diemTB": 0.96
+	},
+	{
+		"mssv": "18850731",
+		"hodem": "Dương Cát",
+		"ten": "Luynh",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 7,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903891015",
+			"0913792401"
+		],
+		"diemTB": 0.04
+	},
+	{
+		"mssv": "17725281",
+		"hodem": "Phan Huy",
+		"ten": "Quỳnh",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 10,
+			"day": 10
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13BTT",
+		"dsDienthoai": [
+			"0903348239",
+			"0913202254"
+		],
+		"diemTB": 5.86
+	},
+	{
+		"mssv": "18323031",
+		"hodem": "Nguyễn Hữu",
+		"ten": "Lộc",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 19
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903900951",
+			"0913185878"
+		],
+		"diemTB": 5.79
+	},
+	{
+		"mssv": "18158241",
+		"hodem": "Phạm Thái",
+		"ten": "Sơn",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 5
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903397631",
+			"0913557341"
+		],
+		"diemTB": 5.14
+	},
+	{
+		"mssv": "18969081",
+		"hodem": "Mai Minh",
+		"ten": "Thư",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 25
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903206388",
+			"0913821858"
+		],
+		"diemTB": 0.41
+	},
+	{
+		"mssv": "16640021",
+		"hodem": "Nguyễn Bảo",
+		"ten": "Hòa",
+		"ngaysinh": {
+			"year": 1998,
+			"month": 5,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM12BTT",
+		"dsDienthoai": [
+			"0903721029",
+			"0913103652"
+		],
+		"diemTB": 6.07
+	},
+	{
+		"mssv": "18331791",
+		"hodem": "Phạm Anh",
+		"ten": "Tuấn",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 10,
+			"day": 15
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903399738",
+			"0913463363"
+		],
+		"diemTB": 6.55
+	},
+	{
+		"mssv": "16265211",
+		"hodem": "Vũ Trung",
+		"ten": "Kiên",
+		"ngaysinh": {
+			"year": 1997,
+			"month": 1,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM12BTT",
+		"dsDienthoai": [
+			"0903601592",
+			"0913794315"
+		],
+		"diemTB": 3.78
+	},
+	{
+		"mssv": "17221601",
+		"hodem": "Nguyễn Hoàng Phúc",
+		"ten": "Liêm",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 11,
+			"day": 25
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903439906",
+			"0913676340"
+		],
+		"diemTB": 4.6
+	},
+	{
+		"mssv": "18810011",
+		"hodem": "Phạm Xuân",
+		"ten": "Vũ",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 9,
+			"day": 22
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903618541",
+			"0913859325"
+		],
+		"diemTB": 8.28
+	},
+	{
+		"mssv": "17484831",
+		"hodem": "Phan Xuân",
+		"ten": "Bách",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 10,
+			"day": 8
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903332055",
+			"0913177200"
+		],
+		"diemTB": 3.62
+	},
+	{
+		"mssv": "17696031",
+		"hodem": "Nguyễn Tấn",
+		"ten": "Toàn",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 10,
+			"day": 27
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13BTT",
+		"dsDienthoai": [
+			"0903144539",
+			"0913553896"
+		],
+		"diemTB": 9.19
+	},
+	{
+		"mssv": "18696921",
+		"hodem": "Lê Tuấn",
+		"ten": "Khang",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 22
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903281461",
+			"0913251020"
+		],
+		"diemTB": 8.27
+	},
+	{
+		"mssv": "18482861",
+		"hodem": "Trần Quang",
+		"ten": "Triệu",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 9
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903158767",
+			"0913172264"
+		],
+		"diemTB": 8.81
+	},
+	{
+		"mssv": "18368631",
+		"hodem": "Cao Thành",
+		"ten": "Đạt",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 18
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903179749",
+			"0913445802"
+		],
+		"diemTB": 3.73
+	},
+	{
+		"mssv": "18528161",
+		"hodem": "Phùng Khánh",
+		"ten": "Toàn",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 9,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903393881",
+			"0913545500"
+		],
+		"diemTB": 7.78
+	},
+	{
+		"mssv": "18601871",
+		"hodem": "Lê Quang",
+		"ten": "Nhật",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 1
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903765694",
+			"0913785995"
+		],
+		"diemTB": 3.41
+	},
+	{
+		"mssv": "18568601",
+		"hodem": "Nguyễn Thế",
+		"ten": "Đạt",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903991467",
+			"0913311892"
+		],
+		"diemTB": 4.69
+	},
+	{
+		"mssv": "18659671",
+		"hodem": "Mai Xuân",
+		"ten": "Hoàng",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 3,
+			"day": 22
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903776919",
+			"0913870174"
+		],
+		"diemTB": 1.59
+	},
+	{
+		"mssv": "18982131",
+		"hodem": "Trương Nhật",
+		"ten": "Long",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 4,
+			"day": 26
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903408714",
+			"0913820810"
+		],
+		"diemTB": 4.18
+	},
+	{
+		"mssv": "18691921",
+		"hodem": "Nguyễn Nhật",
+		"ten": "Hào",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 14
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903286801",
+			"0913876585"
+		],
+		"diemTB": 7.65
+	},
+	{
+		"mssv": "18424431",
+		"hodem": "Trần Hoàng",
+		"ten": "Phúc",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 3,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903848276",
+			"0913843949"
+		],
+		"diemTB": 1.19
+	},
+	{
+		"mssv": "18256451",
+		"hodem": "Nguyễn Hoàng",
+		"ten": "Lâm",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 11
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903673771",
+			"0913873137"
+		],
+		"diemTB": 2.38
+	},
+	{
+		"mssv": "18403361",
+		"hodem": "Trần Hồng",
+		"ten": "Thịnh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903804005",
+			"0913362309"
+		],
+		"diemTB": 4.12
+	},
+	{
+		"mssv": "18429571",
+		"hodem": "Trần Thái Minh",
+		"ten": "Tân",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 14
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903768428",
+			"0913865626"
+		],
+		"diemTB": 1.86
+	},
+	{
+		"mssv": "18287851",
+		"hodem": "Lê Dĩ",
+		"ten": "Khang",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 24
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903946784",
+			"0913366041"
+		],
+		"diemTB": 3.59
+	},
+	{
+		"mssv": "18760161",
+		"hodem": "Mai Thanh",
+		"ten": "Trọng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903117348",
+			"0913766448"
+		],
+		"diemTB": 8.51
+	},
+	{
+		"mssv": "18108181",
+		"hodem": "Nguyễn Thanh",
+		"ten": "Liêm",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 3,
+			"day": 3
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903890710",
+			"0913401669"
+		],
+		"diemTB": 1.33
+	},
+	{
+		"mssv": "18887371",
+		"hodem": "Nguyễn Trần Nhật",
+		"ten": "Hào",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 17
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903170702",
+			"0913678424"
+		],
+		"diemTB": 5.68
+	},
+	{
+		"mssv": "18948211",
+		"hodem": "Nguyễn Văn",
+		"ten": "Lên",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 4
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903731434",
+			"0913609816"
+		],
+		"diemTB": 2.12
+	},
+	{
+		"mssv": "18163991",
+		"hodem": "Vũ Đình Khánh",
+		"ten": "Đăng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 5
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903535819",
+			"0913658606"
+		],
+		"diemTB": 4.14
+	},
+	{
+		"mssv": "17952061",
+		"hodem": "Nguyễn Văn",
+		"ten": "Mỹ",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 5,
+			"day": 24
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903913569",
+			"0913888591"
+		],
+		"diemTB": 6.07
+	},
+	{
+		"mssv": "18295991",
+		"hodem": "Nguyễn Thế",
+		"ten": "Hậu",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 15
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903181921",
+			"0913472823"
+		],
+		"diemTB": 6.65
+	},
+	{
+		"mssv": "16708401",
+		"hodem": "Vương Cẩm",
+		"ten": "Phong",
+		"ngaysinh": {
+			"year": 1998,
+			"month": 2,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM12BTT",
+		"dsDienthoai": [
+			"0903406493",
+			"0913893133"
+		],
+		"diemTB": 0.51
+	},
+	{
+		"mssv": "18675641",
+		"hodem": "Nguyễn Trần Ngọc",
+		"ten": "Tới",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 25
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903957138",
+			"0913676176"
+		],
+		"diemTB": 0.52
+	},
+	{
+		"mssv": "18635881",
+		"hodem": "Nguyễn Việt",
+		"ten": "Tiến",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 3,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903769339",
+			"0913260437"
+		],
+		"diemTB": 7.37
+	},
+	{
+		"mssv": "17131701",
+		"hodem": "Nguyễn Văn",
+		"ten": "Chiến",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 3,
+			"day": 16
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903943200",
+			"0913535492"
+		],
+		"diemTB": 0.08
+	},
+	{
+		"mssv": "18806411",
+		"hodem": "Huỳnh Nguyễn Đức",
+		"ten": "Hưng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 10,
+			"day": 22
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903766357",
+			"0913367191"
+		],
+		"diemTB": 4.79
+	},
+	{
+		"mssv": "18912701",
+		"hodem": "Nguyễn Văn",
+		"ten": "Anh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903217956",
+			"0913528721"
+		],
+		"diemTB": 4.63
+	},
+	{
+		"mssv": "18682751",
+		"hodem": "Châu Quốc",
+		"ten": "An",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 22
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903919767",
+			"0913833965"
+		],
+		"diemTB": 6.55
+	},
+	{
+		"mssv": "17225261",
+		"hodem": "Mai",
+		"ten": "Lộc",
+		"ngaysinh": {
+			"year": 1998,
+			"month": 6,
+			"day": 25
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13B",
+		"dsDienthoai": [
+			"0903582459",
+			"0913231161"
+		],
+		"diemTB": 3.52
+	},
+	{
+		"mssv": "18251781",
+		"hodem": "Nguyễn Đức",
+		"ten": "Huy",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 6
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903588874",
+			"0913562365"
+		],
+		"diemTB": 6.88
+	},
+	{
+		"mssv": "18722551",
+		"hodem": "Nguyễn Phúc",
+		"ten": "Thịnh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 4,
+			"day": 15
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903715747",
+			"0913406347"
+		],
+		"diemTB": 4.27
+	},
+	{
+		"mssv": "18426511",
+		"hodem": "Nguyễn Hoàng Nhật",
+		"ten": "Minh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 27
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903477762",
+			"0913798595"
+		],
+		"diemTB": 5.69
+	},
+	{
+		"mssv": "18613561",
+		"hodem": "Hoàng Xuân",
+		"ten": "Khang",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903833076",
+			"0913844169"
+		],
+		"diemTB": 7.25
+	},
+	{
+		"mssv": "18611261",
+		"hodem": "Đoàn Thị Thanh",
+		"ten": "Hồng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 18
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903675458",
+			"0913348228"
+		],
+		"diemTB": 2.43
+	},
+	{
+		"mssv": "16981251",
+		"hodem": "Võ Minh",
+		"ten": "Thiện",
+		"ngaysinh": {
+			"year": 1998,
+			"month": 2,
+			"day": 1
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM12BTT",
+		"dsDienthoai": [
+			"0903531003",
+			"0913660296"
+		],
+		"diemTB": 6.39
+	},
+	{
+		"mssv": "18191311",
+		"hodem": "Mai Kiên",
+		"ten": "Cường",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 4
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903232503",
+			"0913585323"
+		],
+		"diemTB": 8.94
+	},
+	{
+		"mssv": "17554191",
+		"hodem": "Lê Trần Tuấn",
+		"ten": "Thành",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 8,
+			"day": 5
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13BTT",
+		"dsDienthoai": [
+			"0903556528",
+			"0913186856"
+		],
+		"diemTB": 3.8
+	},
+	{
+		"mssv": "17312741",
+		"hodem": "Nguyễn Quang",
+		"ten": "Đức",
+		"ngaysinh": {
+			"year": 1998,
+			"month": 9,
+			"day": 6
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13BTT",
+		"dsDienthoai": [
+			"0903877412",
+			"0913790174"
+		],
+		"diemTB": 1.84
+	},
+	{
+		"mssv": "18745421",
+		"hodem": "Trương Đức",
+		"ten": "Hoàn",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 19
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903133485",
+			"0913816940"
+		],
+		"diemTB": 8.12
+	},
+	{
+		"mssv": "17414691",
+		"hodem": "Trần Hoài",
+		"ten": "Phong",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 8,
+			"day": 15
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13B",
+		"dsDienthoai": [
+			"0903942849",
+			"0913636382"
+		],
+		"diemTB": 4.41
+	},
+	{
+		"mssv": "16158871",
+		"hodem": "Võ Huỳnh Bảo",
+		"ten": "Khương",
+		"ngaysinh": {
+			"year": 1998,
+			"month": 5,
+			"day": 21
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM12BTT",
+		"dsDienthoai": [
+			"0903736974",
+			"0913523692"
+		],
+		"diemTB": 3.89
+	},
+	{
+		"mssv": "18106781",
+		"hodem": "Nguyễn Thị Quỳnh",
+		"ten": "Mai",
+		"ngaysinh": {
+			"year": 1998,
+			"month": 10,
+			"day": 3
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903304139",
+			"0913424043"
+		],
+		"diemTB": 6.01
+	},
+	{
+		"mssv": "18319351",
+		"hodem": "Bùi Hoàng",
+		"ten": "Phát",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 12
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903501858",
+			"0913366563"
+		],
+		"diemTB": 1.49
+	},
+	{
+		"mssv": "18638491",
+		"hodem": "Nguyễn Ngọc Bảo",
+		"ten": "Duy",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 2,
+			"day": 18
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14CTT",
+		"dsDienthoai": [
+			"0903737725",
+			"0913508205"
+		],
+		"diemTB": 6.58
+	},
+	{
+		"mssv": "18659191",
+		"hodem": "Nguyễn Đức",
+		"ten": "Huy",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 10,
+			"day": 9
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903633761",
+			"0913940058"
+		],
+		"diemTB": 8.21
+	},
+	{
+		"mssv": "18601551",
+		"hodem": "Phan Văn",
+		"ten": "Thông",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 25
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903905994",
+			"0913106151"
+		],
+		"diemTB": 4.2
+	},
+	{
+		"mssv": "17495181",
+		"hodem": "Nguyễn Trọng",
+		"ten": "Hảo",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 9,
+			"day": 13
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903710529",
+			"0913143484"
+		],
+		"diemTB": 8.39
+	},
+	{
+		"mssv": "17352271",
+		"hodem": "Võ Thanh",
+		"ten": "Nhàn",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 12,
+			"day": 9
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13CTT",
+		"dsDienthoai": [
+			"0903380670",
+			"0913198614"
+		],
+		"diemTB": 9.29
+	},
+	{
+		"mssv": "18672031",
+		"hodem": "Nguyễn Tấn",
+		"ten": "Hưng",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 1
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903570650",
+			"0913959223"
+		],
+		"diemTB": 2.54
+	},
+	{
+		"mssv": "18512921",
+		"hodem": "Tô Thị Hồng",
+		"ten": "Thắm",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 5,
+			"day": 26
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903982519",
+			"0913830970"
+		],
+		"diemTB": 0.37
+	},
+	{
+		"mssv": "18895781",
+		"hodem": "Lê Nhật Uyên",
+		"ten": "Hương",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 28
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903243159",
+			"0913931777"
+		],
+		"diemTB": 6.7
+	},
+	{
+		"mssv": "17389771",
+		"hodem": "Bùi Quốc",
+		"ten": "Thanh",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 5,
+			"day": 19
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13A",
+		"dsDienthoai": [
+			"0903331265",
+			"0913246200"
+		],
+		"diemTB": 1.09
+	},
+	{
+		"mssv": "18417161",
+		"hodem": "Phùng Thanh",
+		"ten": "Toàn",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 27
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903866773",
+			"0913816446"
+		],
+		"diemTB": 5.76
+	},
+	{
+		"mssv": "18813171",
+		"hodem": "Bùi Lâm",
+		"ten": "Vĩnh",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 8
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903703837",
+			"0913333020"
+		],
+		"diemTB": 3.36
+	},
+	{
+		"mssv": "18440821",
+		"hodem": "Nguyễn Ngọc",
+		"ten": "Mỹ",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 1,
+			"day": 3
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903879505",
+			"0913757836"
+		],
+		"diemTB": 9.63
+	},
+	{
+		"mssv": "18792061",
+		"hodem": "Lê Tuấn",
+		"ten": "Tú",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 12,
+			"day": 10
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903386622",
+			"0913171569"
+		],
+		"diemTB": 0.19
+	},
+	{
+		"mssv": "18531531",
+		"hodem": "Mai Phát",
+		"ten": "Huy",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 8,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903600918",
+			"0913756645"
+		],
+		"diemTB": 0.53
+	},
+	{
+		"mssv": "17413251",
+		"hodem": "Huỳnh Ngọc Hoàng",
+		"ten": "Phúc",
+		"ngaysinh": {
+			"year": 1999,
+			"month": 5,
+			"day": 1
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM13CTT",
+		"dsDienthoai": [
+			"0903134597",
+			"0913870932"
+		],
+		"diemTB": 9.73
+	},
+	{
+		"mssv": "18610701",
+		"hodem": "Nguyễn Trung",
+		"ten": "Hải",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 13
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKHMT14",
+		"dsDienthoai": [
+			"0903347142",
+			"0913864356"
+		],
+		"diemTB": 1.02
+	},
+	{
+		"mssv": "18811541",
+		"hodem": "Phan Thị Tứ",
+		"ten": "Thi",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 11,
+			"day": 23
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903978246",
+			"0913437225"
+		],
+		"diemTB": 0.23
+	},
+	{
+		"mssv": "18129771",
+		"hodem": "Đỗ Đạt",
+		"ten": "Đức",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 9,
+			"day": 6
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903829585",
+			"0913490200"
+		],
+		"diemTB": 7.97
+	},
+	{
+		"mssv": "18968291",
+		"hodem": "Nguyễn Ngọc",
+		"ten": "Hà",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 4,
+			"day": 23
+		},
+		"gioitinh": "Nữ",
+		"malop": "DHKTPM14",
+		"dsDienthoai": [
+			"0903293339",
+			"0913488827"
+		],
+		"diemTB": 6.1
+	},
+	{
+		"mssv": "18175981",
+		"hodem": "Nguyễn Ngọc",
+		"ten": "Trí",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 7,
+			"day": 20
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14ATT",
+		"dsDienthoai": [
+			"0903114285",
+			"0913936861"
+		],
+		"diemTB": 2.99
+	},
+	{
+		"mssv": "18807851",
+		"hodem": "Nguyễn Văn",
+		"ten": "Vương",
+		"ngaysinh": {
+			"year": 2000,
+			"month": 6,
+			"day": 15
+		},
+		"gioitinh": "Nam",
+		"malop": "DHKTPM14BTT",
+		"dsDienthoai": [
+			"0903602003",
+			"0913406023"
+		],
+		"diemTB": 5.48
+	}
+]

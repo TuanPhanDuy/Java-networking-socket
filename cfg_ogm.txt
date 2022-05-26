@@ -1,0 +1,43 @@
+1/ Hibernate Native
+ 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+
+        <!-- Database connection settings -->
+        <property name="hibernate.ogm.datastore.provider">mongodb</property>
+        <!-- Enable Hibernate's automatic session context management -->
+        <property name="current_session_context_class">thread</property>
+        <property name="hibernate.ogm.datastore.host">localhost</property>
+        <property name="hibernate.ogm.mongodb.port">27017</property>
+        <property name="hibernate.ogm.datastore.database">mydb</property>
+
+    </session-factory>
+</hibernate-configuration>
+
+
+
+2/ JPA
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.2" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+	<persistence-unit name="JPA_UNIT_NAME">
+		<provider>org.hibernate.ogm.jpa.HibernateOgmPersistence</provider>		
+		<properties>
+		
+		<property name="hibernate.ogm.datastore.provider" value="mongodb"/>
+		<property name="hibernate.ogm.datastore.database" value="mydb"/>
+		<property name="hibernate.ogm.datastore.host" value="localhost"/>	
+<property name="hibernate.ogm.datastore.port" value="27017"/>	
+		<property name="hibernate.ogm.datastore.create_database" value="true"/>
+		
+		</properties>
+	</persistence-unit>
+</persistence>
+
